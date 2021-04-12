@@ -2,8 +2,8 @@ Hola este va a ser el sitio de notificaciones donde publicare novedades y demas 
 ademas publicare algunas plantillas de bots de discord.
 
 
-HOLA GENTE AYER PRESENTE Y PUBLIQUE MI NUEVO BOT LLAMADO **GuiGuel** OS DEJO EL LINK DEL SERVER DE SOPORTE Y LA INVITACION DEL BOT
-***INTENTEMOS LLEGRA AL VERIFICADO*** COMO @anventech
+>HOLA GENTE AYER PRESENTE Y PUBLIQUE MI NUEVO BOT LLAMADO **GuiGuel** OS DEJO EL LINK DEL SERVER DE SOPORTE Y LA INVITACION DEL BOT
+***INTENTEMOS LLEGRA AL VERIFICADO**
 
 **SERVER**: https://discord.gg/eFwF8vgUdb
 
